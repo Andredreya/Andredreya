@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andredreya
-- 👀 I’m interested in Theatre and Filmmaking
+- 👀 I’m interested in Theatre and Film making
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on something when I've learned something useful /s
 - 📫 How to reach me (Don't)
